@@ -1,0 +1,7 @@
+.lead__image-route {
+    max-width: 96%;
+    position: absolute;
+    top: 24%;
+    left: 50%;
+    transform: translate(-50%, -24%);
+}
