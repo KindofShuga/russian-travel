@@ -14,3 +14,5 @@
 * Работа с относительными величинами
 * Grid Layout
 * Знакомство с Figma
+
+## Ссылка на проект - https://kindofshuga.github.io/russian-travel/
