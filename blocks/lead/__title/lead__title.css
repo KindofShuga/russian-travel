@@ -16,3 +16,8 @@
         line-height: 1.1;
     }
 }
+@media screen and (max-width: 320px) {
+    .lead__title {
+        margin: 0 auto 16px;
+    }
+}

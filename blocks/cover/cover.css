@@ -5,7 +5,3 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
-.cover:hover .cover__overlay {
-    background-color: rgba(42, 44, 47, .8);
-    transition: background-color .3s ease;
-}

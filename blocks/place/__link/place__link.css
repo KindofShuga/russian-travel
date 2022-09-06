@@ -1,10 +1,9 @@
 .place__link {
     margin: 0;
     padding: 0;
-    width: 100%;
     font-weight: 400;
     font-size: 18px;
-    line-height: 122%;
+    line-height: 22px;
     color: #FFFFFF;
     transition: opacity .3s ease;
 }
