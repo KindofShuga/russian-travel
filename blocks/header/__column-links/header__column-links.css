@@ -2,6 +2,7 @@
     margin: 0 0 6px 0;
     padding: 0;
     display: flex;
+    column-gap: 18px;
     list-style: none;
     color: #ffffff;
 }
